@@ -2,6 +2,10 @@ function About() {
 	return (
 		<div className="About">
 			<div>
+				<h1>
+					We’re not just for dating
+					anymore
+				</h1>
 				<div>
 					<p>Bumble Date</p>
 				</div>
